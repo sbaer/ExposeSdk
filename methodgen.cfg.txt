@@ -1,0 +1,2 @@
+C:\dev\github\sbaer\ExposeSdk\ExposeSdk\c_sdk
+C:\dev\github\sbaer\ExposeSdk\ExposeSdkDotNet
